@@ -129,4 +129,4 @@ amazon-brazil-sql-analysis
 ## 👨‍💻 Author
 
 Ritik Singh
-## ⭐ If you found this project useful, consider giving it a Star!
+### ⭐ If you found this project useful, consider giving it a Star!
