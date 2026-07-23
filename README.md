@@ -11,7 +11,7 @@
 
 ---
 
-# 📖 Project Overview
+## 📖 Project Overview
 
 This project presents an end-to-end SQL analysis of the **Amazon Brazil E-commerce Dataset** using **PostgreSQL**. The analysis focuses on extracting business insights from customer orders, products, sellers, payments, and reviews through structured SQL queries.
 
@@ -19,7 +19,7 @@ By applying advanced SQL techniques, this project demonstrates how transactional
 
 ---
 
-# 🎯 Business Problem
+## 🎯 Business Problem
 
 E-commerce platforms generate millions of transactions every day. Without proper analysis, valuable business opportunities remain hidden.
 
@@ -27,7 +27,7 @@ This project aims to answer key business questions related to customer purchasin
 
 ---
 
-# 🎯 Objectives
+## 🎯 Objectives
 
 - Analyze customer purchasing behavior.
 - Identify top-performing product categories.
@@ -38,7 +38,7 @@ This project aims to answer key business questions related to customer purchasin
 
 ---
 
-# 🗂️ Dataset Overview
+## 🗂️ Dataset Overview
 
 The dataset contains information about:
 
@@ -52,7 +52,7 @@ The dataset contains information about:
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -62,7 +62,7 @@ The dataset contains information about:
 
 ---
 
-# 🧠 SQL Concepts Used
+## 🧠 SQL Concepts Used
 
 - SELECT Statements
 - Filtering (WHERE)
@@ -79,7 +79,7 @@ The dataset contains information about:
 
 ---
 
-# 📊 Business Questions Answered
+## 📊 Business Questions Answered
 
 ✔ Which product categories generate the highest revenue?
 
@@ -97,7 +97,7 @@ The dataset contains information about:
 
 ---
 
-# 📈 Key Insights
+## 📈 Key Insights
 
 - Identified the highest revenue-generating product categories.
 - Evaluated seller performance based on total sales.
@@ -108,7 +108,7 @@ The dataset contains information about:
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```
 amazon-brazil-sql-analysis
@@ -126,8 +126,7 @@ amazon-brazil-sql-analysis
 └── LICENSE
 ```
 
-👨‍💻 Author
-
+## 👨‍💻 Author
 
 Ritik Singh
 ## ⭐ If you found this project useful, consider giving it a Star!
