@@ -59,7 +59,6 @@ The dataset contains information about:
 | PostgreSQL | Database Management |
 | pgAdmin | Query Execution |
 | SQL | Data Analysis |
-| Git & GitHub | Version Control |
 
 ---
 
@@ -126,35 +125,6 @@ amazon-brazil-sql-analysis
 │
 └── LICENSE
 ```
-
----
-
-# 📸 Project Screenshots
-
-### Revenue Analysis
-
-*(Add Screenshot)*
-
----
-
-### Product Category Analysis
-
-*(Add Screenshot)*
-
----
-
-### Seller Performance
-
-*(Add Screenshot)*
-
----
-
-### Payment Analysis
-
-*(Add Screenshot)*
-
-
----
 
 👨‍💻 Author
 
