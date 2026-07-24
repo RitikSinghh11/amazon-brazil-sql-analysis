@@ -121,9 +121,7 @@ amazon-brazil-sql-analysis
 │
 ├── screenshots
 │
-├── README.md
-│
-└── LICENSE
+└── README.md
 ```
 
 ## 👨‍💻 Author
